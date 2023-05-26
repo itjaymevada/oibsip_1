@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">OasisTask1</string>
+    <string-array name="Units">
+        <item>Foot to Inch</item>
+        <item>yard to feet</item>
+        <item>mile to yard</item>
+        <item>kilometer to meter</item>
+        <item>meter to centimeter</item>
+        <item>centimeter to millimeter</item>
+        <item>ton to pound</item>
+        <item>kilogram to gram</item>
+        <item>gram to milligram</item>
+        <item>gallon to quarts</item>
+        <item>Liter to milliliter</item>
+        <item>celsius to kelvin</item>
+        <item>kelvin to celsius</item>
+        <item>Fahrenheit to celsius</item>
+        <item>celsius to Fahrenheit</item>
+        <item>kelvin to Fahrenheit</item>
+        <item>Fahrenheit to kelvin</item>
+    </string-array>
+
+</resources>
